@@ -26,7 +26,7 @@ Projet inspiré par ce [sujet](https://forum.liberaux.org/index.php?/topic/57699
 |                                                                                                                           | À trouver                                                                 | « Bonne » et « mauvaise » monnaie |
 |                                                                                                                           | À trouver                                                                 | Valeur intrinsèque d'une monnaie  |
 | [Friedrich von Hayek: His Life and Thought](https://www.youtube.com/watch?v=LtCvJeRK3lE)                                  | À faire                                                                   | Entrevue de 1985                  |
-
+| [There's No Such Thing as a Free Lunch (Milton Friedman)](https://www.youtube.com/watch?v=77fdRWpV_-4&t=0)                | À faire                                                                   |                                   |
 
 ## Logiciels utilisés
 
